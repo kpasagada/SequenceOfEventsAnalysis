@@ -1,0 +1,160 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "code": "033",
+      "src_actor": "USA",
+      "month": "10",
+      "tgt_actor": "USA",
+      "country_code": "USA",
+      "year": "2017",
+      "date8_val": {
+        "$date": 1509408000000
+      },
+      "id": "59f7feb4de7923401d8a5d7a_1",
+      "source": "USA",
+      "date8": "20171031",
+      "src_agent": "",
+      "latitude": 21.30694,
+      "src_other_agent": "",
+      "geoname": "Honolulu Hawaii",
+      "quad_class": 1,
+      "source_text": "wn_world",
+      "root_code": "03",
+      "tgt_other_agent": "",
+      "day": "31",
+      "target": "USAGOV",
+      "goldstein": 5.2,
+      "tgt_agent": "GOV",
+      "longitude": -157.85833,
+      "url": "https://article.wn.com/view/2017/10/31/6_states_seek_to_intervene_in_Hawaiis_travel_ban_challenge_e2/",
+      "_id": {
+        "$oid": "59f7fffe583dca26c729493a"
+      }
+    },
+    {
+      "code": "033",
+      "src_actor": "USA",
+      "month": "10",
+      "tgt_actor": "USA",
+      "country_code": "CHN",
+      "year": "2017",
+      "date8_val": {
+        "$date": 1509408000000
+      },
+      "id": "59f7fef8de792340188a5db6_2",
+      "source": "USA",
+      "date8": "20171031",
+      "src_agent": "",
+      "latitude": 39.9075,
+      "src_other_agent": "",
+      "geoname": "Beijing Beijing Shi",
+      "quad_class": 1,
+      "source_text": "china_scmp_asia",
+      "root_code": "03",
+      "tgt_other_agent": "UAF",
+      "day": "31",
+      "target": "USAUAF",
+      "goldstein": 5.2,
+      "tgt_agent": "",
+      "longitude": 116.39723,
+      "url": "http://www.scmp.com/news/world/united-states-canada/article/2117389/us-help-india-balance-chinas-power-under-donald",
+      "_id": {
+        "$oid": "59f8003e583dca26c7294f0a"
+      }
+    },
+    {
+      "code": "033",
+      "src_actor": "IRQ",
+      "month": "10",
+      "tgt_actor": "",
+      "country_code": "IRQ",
+      "year": "2017",
+      "date8_val": {
+        "$date": 1509408000000
+      },
+      "id": "59f7fea0de792340258a5d63_5",
+      "source": "IRQGOV",
+      "date8": "20171031",
+      "src_agent": "GOV",
+      "latitude": 36.19257,
+      "src_other_agent": "",
+      "geoname": "Erbil Muḩāfaz̧at Arbīl",
+      "quad_class": 1,
+      "source_text": "jpost_me",
+      "root_code": "03",
+      "tgt_other_agent": "PPL",
+      "day": "31",
+      "target": "---PPL",
+      "goldstein": 5.2,
+      "tgt_agent": "",
+      "longitude": 44.01062,
+      "url": "http://www.jpost.com/Middle-East/Barzani-resigns-armed-protestors-storm-Kurdish-parliament-509751",
+      "_id": {
+        "$oid": "59f801c3583dca26c7295a98"
+      }
+    },
+    {
+      "code": "033",
+      "src_actor": "",
+      "month": "10",
+      "tgt_actor": "",
+      "country_code": "",
+      "year": "2017",
+      "date8_val": {
+        "$date": 1509408000000
+      },
+      "id": "59f8c75cde792317aebb3479_6",
+      "source": "---COP",
+      "date8": "20171031",
+      "src_agent": "COP",
+      "latitude": "",
+      "src_other_agent": "",
+      "geoname": " ",
+      "quad_class": 1,
+      "source_text": "wn_politics",
+      "root_code": "03",
+      "tgt_other_agent": "",
+      "day": "31",
+      "target": "---CVL",
+      "goldstein": 5.2,
+      "tgt_agent": "CVL",
+      "longitude": "",
+      "url": "https://article.wn.com/view/2017/10/31/Arrest_at_Dillard_s_Nets_Repeat_Offender/",
+      "_id": {
+        "$oid": "59f8c856583dca6da98450aa"
+      }
+    },
+    {
+      "code": "033",
+      "src_actor": "IGO",
+      "month": "11",
+      "tgt_actor": "IND",
+      "country_code": "IND",
+      "year": "2017",
+      "date8_val": {
+        "$date": 1509494400000
+      },
+      "id": "59f96bacde7923242f0637a1_6",
+      "source": "IGOBUSIMF",
+      "date8": "20171101",
+      "src_agent": "BUS",
+      "latitude": 22.0,
+      "src_other_agent": "IMF",
+      "geoname": "Republic of India ",
+      "quad_class": 1,
+      "source_text": "menafn_uae",
+      "root_code": "03",
+      "tgt_other_agent": "",
+      "day": "01",
+      "target": "IND",
+      "goldstein": 5.2,
+      "tgt_agent": "",
+      "longitude": 79.0,
+      "url": "http://www.menafn.com/1096023268/UAE-Indian-businesses-pledge-USD1-billion-investments?src=RSS",
+      "_id": {
+        "$oid": "59f96c41583dca7dac9ce65a"
+      }
+    }
+  ]
+}
